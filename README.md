@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <img src="bruhlink" alt="Logo" width="80" height="80">
-  <h3>BanCmd</h3>
+  <h3>EndCrystal</h3>
   <p align="center">
     Added explosive End Crystal entity to PocketMine-MP software
 
@@ -30,16 +30,16 @@
 # 🔁 Installation
 
 1. Download the latest version in [poggit](https://poggit.pmmp.io/p/EndCrystal).
-2. Put the BanCmd.phar file to the plugins folder.
+2. Put the EndCrystal-dev?.phar file to the plugins folder.
 3. Restart the server.
 4. Done!
 
 # 🪪 Contact & Credit
 CONTACT
-- <b>YouTube</b>: Fredy Ma'ruf
-- <b>Discord</b>: Fredy Ma'ruf#0905
-- <b>GitHub</b>: MyFreds
-- <b>Email</b>: id.luxy.store@gmail.com
+- YouTube: Fredy Ma'ruf
+- Discord: Fredy Ma'ruf#0905
+- GitHub: MyFreds
+- Email: id.luxy.store@gmail.com
 
 CREDIT
 - Icon by [Freepix - Flaticon](https://www.flaticon.com/search/4?word=banned)
