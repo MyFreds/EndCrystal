@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="bruhlink" alt="Logo" width="80" height="80">
+  <img src="https://github.com/MyFreds/EndCrystal/blob/main/icon.png" alt="Logo" width="80" height="80">
   <h3>EndCrystal</h3>
   <p align="center">
     Added explosive End Crystal entity to PocketMine-MP software
@@ -29,7 +29,7 @@
   
 # 🔁 Installation
 
-1. Download the latest version in [poggit](https://poggit.pmmp.io/p/EndCrystal).
+1. Download the latest version in [poggit](https://poggit.pmmp.io/ci/MyFreds/EndCrystal).
 2. Put the EndCrystal-dev?.phar file to the plugins folder.
 3. Restart the server.
 4. Done!
